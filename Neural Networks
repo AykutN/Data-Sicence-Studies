@@ -1,0 +1,35 @@
+Perceptrons
+
+Perceptron is a neuron that precess the data and construction an structure with forge a network with another perceptron.
+
+what is the input ? - input can anything. for example a number , situation or what affect my selections.
+
+basically perceptron take a input form back (there can another perceptron) and give it an weight and collect with bias at the perceptron. according to that perceptron 
+give an output. but before that there is a important stop station: Activation Function
+
+
+Cost Function - measure what is the our distance to data. our goal is minimize the cost function.Gradient Descent is a optimization function for minimize the cost
+function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source by Atıl Samancıoğlu in BTK Akademi:https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705#!/about
+
+
